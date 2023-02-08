@@ -1,0 +1,11 @@
+.summary {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.actions {
+  margin-top: 20px;
+  display: flex;
+  gap: 10px;
+  justify-content: end;
+}
